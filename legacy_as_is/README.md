@@ -1,4 +1,6 @@
-# Project 1: Wind-Aware Energy-Optimal UAV Guidance and Adaptive Control
+# Project 1: Wind-Aware Energy-Optimal UAV Guidance and Adaptive Control (Legacy Baseline)
+
+> This directory archives the original MATLAB Live Script prototype ([`project1.mlx`](./project1.mlx)) alongside its direct 1:1 Python equivalent ([`project1_as_is.py`](./project1_as_is.py)).
 
 ## 1. Executive Summary & Problem Statement
 Fixed-wing Unmanned Aerial Vehicles (UAVs) performing long-endurance intelligence, surveillance, and reconnaissance (ISR) or delivery missions operate in unpredictable, dynamic environments. Atmospheric wind disturbances and mass variations (arising from payload deployment or fuel consumption) degrade trajectory tracking, compromise flight stability, and drastically reduce usable mission endurance.
